@@ -1,0 +1,58 @@
+---
+title: "Tracking your logic"
+author: "Sofia Gil-Clavel"
+date: "2026-07-24"
+output: pdf_document
+---
+
+
+
+```{r cleaning environment, results='hide'}
+rm(list=ls())
+gc()
+```
+
+```{r formating the graph, echo=FALSE}
+knitr::opts_chunk$set(fig.align = 'center', fig.height = 2.5, fig.width = 4)
+```
+
+```{r loading packages, message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+# Preparing the data
+
+Load the data `ChickWeight` and turn it into a tibble:
+
+```{r loading the data}
+
+
+```
+
+
+# Descriptive visualization of the data
+
+Visualize the relation between the variables `Time` and `weight` by `Diet`.
+
+```{r descriptive viz}
+
+
+```
+
+
+# Linear model
+
+Run a linear model to analyse the association between `weight` and `Time` by `Diet`, i.e., an interaction model. Save the result in the variable `LM`.
+
+```{r LM}
+
+
+```
+
+Check the coefficients, standard errors, and p-values.
+
+```{r summary LM}
+
+```
+
+Interpret the results:
