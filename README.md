@@ -31,4 +31,4 @@ Students need to:
 
 Did you find it useful? Then do not forget to cite it:
 
-Gil-Clavel, S. (2026). R-Course: Tools for teaching and research. (Version v.1.1). Zenodo. (https://doi.org/10.5281/zenodo.22036755)[https://doi.org/10.5281/zenodo.22036755]
+Gil-Clavel, S. (2026). R-Course: Tools for teaching and research. (Version v.1.1). Zenodo. [https://doi.org/10.5281/zenodo.22036755](https://doi.org/10.5281/zenodo.22036755).
