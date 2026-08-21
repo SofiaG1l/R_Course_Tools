@@ -5,13 +5,13 @@ authors:
     family-names: "Gil-Clavel"
     affiliation: "Vrije University Amsterdam"
     orcid: https://orcid.org/0000-0003-4707-849X
-title: "R-Course: Tools for teaching and doing research."
+title: "R-Course: Tools for teaching and research."
 abstract: "These are the files Sofia Gil-Clavel designed to teach the R-Course: Tools for teaching and doing research."
 version: 1.0
 type: dataset
 identifiers:
   - type: doi
-    value: 
+    value: 10.5281/zenodo.22036719
 license: "CC-BY-4.0"
 date-released: 2026-08-21
 url: "https://github.com/SofiaG1l/R_Course_Tools/"
