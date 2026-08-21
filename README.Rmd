@@ -11,7 +11,7 @@ Welcome to the website of the R-course: Tools for teaching and research!
 
 I designed this course to give social scientists all that is necessary to ease their teaching and research endeavors using R.
 
-The course is designed for academics with a medium and advance level of R. It doesn't matter if you are a PhD student or a professor, you all are welcome!
+All you need is a medium or advance level of R. It doesn't matter if you are a PhD student or a professor, you all are welcome!
 
 Please keep in mind that all the material builds on itself. If you are interested on a specific topic, then you need to attend all the previous sessions: 
 
@@ -30,3 +30,4 @@ Students need to:
 ## Do not forget to cite it
 Did you find it useful? Then do not forget to cite it.
 
+Gil-Clavel, S. (2026). R-Course: Tools for teaching and doing research. (Version v.1). Zenodo. [https://doi.org/10.5281/zenodo.22036719](https://doi.org/10.5281/zenodo.22036719).
