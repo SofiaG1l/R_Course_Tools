@@ -1,5 +1,5 @@
 ---
-title: "RTools4Teaching&Research"
+title: "RTools4TeachingnResearch"
 author: "Sofia Gil-Clavel"
 date: "2026-08-21"
 output: md_document
