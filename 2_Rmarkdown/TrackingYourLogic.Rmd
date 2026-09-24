@@ -32,27 +32,32 @@ Load the data `ChickWeight` and turn it into a tibble:
 
 # Descriptive visualization of the data
 
-Visualize the relation between the variables `Time` and `weight` by `Diet`.
+Visualize the relation between the variables `Time` and `weight`.
 
 ```{r descriptive viz}
 
 
 ```
 
+Describe your visualization:
+
 
 # Linear model
 
-Run a linear model to analyse the association between `weight` and `Time` by `Diet`, i.e., an interaction model. Save the result in the variable `LM`.
+Run a linear model to analyse the association between `weight` and `Time`. Save the result in the variable `LM`. Hint: Use the function `lm()`.
 
 ```{r LM}
 
 
 ```
 
-Check the coefficients, standard errors, and p-values.
+Check the coefficients, standard errors, and p-values. Hint: Use the function `summary()`.
 
 ```{r summary LM}
 
 ```
 
 Interpret the results:
+
+
+
