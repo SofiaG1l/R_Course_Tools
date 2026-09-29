@@ -1,0 +1,16 @@
+﻿id;author;year;title;chapter;text
+id_11;Someone else;2023;book1;chapter1;This is some text Other_Text
+id_21;Someone else;2023;book1;chapter2;This is some text Other_Text
+id_31;Someone else;2023;book1;chapter3;This is some text Other_Text
+id_41;Someone else;2023;book1;chapter4;This is some text Other_Text
+id_51;Someone else;2023;book1;chapter5;This is some text Other_Text
+id_61;Someone else;2024;book2;chapter1;This is some text Other_Text
+id_71;Someone else;2024;book2;chapter2;This is some text Other_Text
+id_81;Someone else;2024;book2;chapter3;This is some text Other_Text
+id_91;Someone else;2024;book2;chapter4;This is some text Other_Text
+id_101;Someone else;2024;book2;chapter5;This is some text Other_Text
+id_111;Someone else;2025;book3;chapter1;This is some text Other_Text
+id_121;Someone else;2025;book3;chapter2;This is some text Other_Text
+id_131;Someone else;2025;book3;chapter3;This is some text Other_Text
+id_141;Someone else;2025;book3;chapter4;This is some text Other_Text
+id_151;Someone else;2025;book3;chapter5;This is some text Other_Text
